@@ -19,8 +19,14 @@
 
 ## 💼 **Mi Experiencia**
 
-**Web Developer Junior**  
-Aunque mi experiencia es limitada, trabajé durante 2 semanas en un puesto relacionado, pero lamentablemente fui despedida. Sin embargo, esta experiencia me ha permitido aprender mucho y seguir adelante con más determinación. (P.D: ¡Fue mi hermano quien me despidió, jaja!)
+**Desarrollador Web Junior 2023**
+Aunque mi experiencia es limitada trabajé por un corto tiempo en una empresa de alquiler de carros con tecnologías como JavaScript, HTML, CSS, Nodejs, entre otras.
+
+**Desarrollador Web 2022 - Actualidad**
+A lo lardo de la carrera he aprendido nuevas herramientas hacia el desarrollo web como JavaScript, HTML5, CSS, Nodejs, PHP, entre las más usadas. Se usa además Bootstrap como una ayuda a los sistemas web, he desarrollado nuevas habilidades y conocimientos gracias a esto implementandolas en páginas web.
+
+**Desarrollador en Java 2022 - Actualidad**
+La base de mi aprendizaje fue concretamente Java, así que he desarrollado grandes sistemas gráficos, por escritorio y en base de datos como MySQL. Todos estos fueron óptimos y eficientes
 
 ---
 
