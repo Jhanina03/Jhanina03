@@ -65,14 +65,6 @@ La base de mi aprendizaje fue concretamente Java, así que he desarrollado grand
 
 ---
 
-## 📊 **Estadísticas**
-
-- **500 horas trabajadas**
-- **10 clientes felices**
-- **2k tazas de café consumidas**
-
----
-
 ## 💻 **Portafolio**
 
 Mis proyectos más recientes incluyen:
