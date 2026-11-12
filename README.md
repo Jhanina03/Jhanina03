@@ -1,98 +1,67 @@
-# jhaninaconteron
-# 👋 ¡Hola, soy Jhanina Conterón 🦂!
+<a href="https://jhanina03.github.io/">
+  <img src="header.svg" alt="Jhanina Conterón · Software Engineer · Frontend, Databases, QA" width="100%">
+</a>
 
-### Frontend Designer | Developer
+<p align="center">
+  <a href="https://jhanina03.github.io/"><img src="https://img.shields.io/badge/Portfolio-jhanina03.github.io-7B5CD6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://jhanina03.github.io/cv.html"><img src="https://img.shields.io/badge/CV-EN%20%2F%20ES-FF7AB8?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"></a>
+  <a href="mailto:jhaninaconteron03@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-5B8DEF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-¡Hola! Soy Jhanina Conterón, una estudiante apasionada por el desarrollo web. Actualmente, estoy cursando el cuarto semestre de la carrera de Software en la **Universidad Técnica de Ambato**. Tengo 20 años y estoy muy emocionada por el camino que estoy recorriendo en el mundo del desarrollo web. 
+### 🧵 Hi, I'm Jhanina
 
----
+I'm an 8th-semester **Software Engineering** student at Universidad Técnica de Ambato (Ecuador) 🇪🇨. I tailor software the way designers tailor clothes: **measured, tested and made to fit**.
 
-## 📚 **Información Personal**
+- 🎨 **Frontend** with Angular + TypeScript, Next.js and React
+- 🗄️ **Databases**: SQL Server, PostgreSQL, MySQL and MongoDB. I like my schemas tidy and my queries fast
+- 🔍 **QA & testing**: unit, integration and mutation tests, code reviews, and CI with Jenkins
+- 🧠 **AI**: neural networks, license-plate recognition and fuzzy logic + genetic algorithms
+- 👗 Fashion lover. I'm always looking for ways to mix style and code (see **FashionIA**)
+- 📍 Ambato, Ecuador · open to **remote** internships, junior roles and freelance work
 
-- **Fecha de Nacimiento:** 03/11/2004
-- **Correo Electrónico Estudiantil:** [bconteron3403@uta.edu.ec](mailto:bconteron3403@uta.edu.ec)
-- **Correo Electrónico Personal:** [jhaninaconteron03@gmail.com](mailto:jhaninaconteron03@gmail.com)
-- **Teléfono Celular:** + (593) 995965167
-- **Dirección:** Ambato, Tungurahua, Ecuador
+<details>
+<summary>🇪🇸 <b>En español</b></summary>
 
----
+Soy estudiante de 8.º semestre de **Ingeniería de Software** en la Universidad Técnica de Ambato. Confecciono software como un diseñador confecciona ropa: **a medida, probado y hecho para quedar perfecto**. Me especializo en **frontend** (Angular, TypeScript), **bases de datos** (SQL Server, PostgreSQL, MongoDB) y **QA**. También me encantan la IA y la moda. Disponible para prácticas, puestos junior y trabajo remoto.
 
-## 💼 **Mi Experiencia**
+</details>
 
-**Desarrollador Web Junior 2023**
-Aunque mi experiencia es limitada trabajé por un corto tiempo en una empresa de alquiler de carros con tecnologías como JavaScript, HTML, CSS, Nodejs, entre otras.
+### 🪡 My thread collection
 
-**Desarrollador Web 2022 - Actualidad**
-A lo lardo de la carrera he aprendido nuevas herramientas hacia el desarrollo web como JavaScript, HTML5, CSS, Nodejs, PHP, entre las más usadas. Se usa además Bootstrap como una ayuda a los sistemas web, he desarrollado nuevas habilidades y conocimientos gracias a esto implementandolas en páginas web.
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,nextjs,react,js,html,css,bootstrap&theme=light" alt="Frontend skills"><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nestjs,nodejs,express,java,py&theme=light" alt="Backend skills"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite,docker,jenkins,git,github&theme=light" alt="Databases and tools">
+</p>
 
-**Desarrollador en Java 2022 - Actualidad**
-La base de mi aprendizaje fue concretamente Java, así que he desarrollado grandes sistemas gráficos, por escritorio y en base de datos como MySQL. Todos estos fueron óptimos y eficientes
+### 👗 Featured collection
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| **FashionIA** | Garment comfort recommender: fuzzy Mamdani inference + genetic algorithm for optimal pattern measurements | Python |
+| [**Chat Básico**](https://github.com/Jhanina03/chat-basico) | Real-time chat with video calls, covered by unit, integration and mutation tests · [demo](https://chat-basico.onrender.com) | Node.js · Socket.IO · WebRTC |
+| **License plate recognition** | Detects and reads vehicle license plates from images | Python · computer vision |
+| **Account reconciliation system** | Internship project at a financial institution: cross-checks balances and flags mismatches | SQL · .NET |
+| **Hotel booking on Odoo** | Booking sites and custom ERP modules | Odoo · Python |
+| [**APE7 · GPIS**](https://github.com/Jhanina03/APE7-proyectogpis) | Decoupled app with Docker Compose and a Jenkins pipeline | TypeScript · Docker |
+| [**MNIST**](https://github.com/Jhanina03/mnist) | Handwritten-digit neural network vs. KNN | Python |
 
-## 🎓 **Educación**
+👉 See them all in the **[pattern archive](https://jhanina03.github.io/archive.html)**.
 
-**2024 - Presente:**  
-*Software*  
-- Actualmente cursando el cuarto semestre de la carrera de Software en la **Universidad Técnica de Ambato**.
+### 📊 Stats
 
-**2024:**  
-- **Certificados en el congreso de Ciencias de la Computación, Electrónica e Ingeniería Industrial.**  
-  Participante en el **CSEI 2024**, un evento organizado de manera virtual en Ambato, Ecuador, del 21 al 25 de Octubre.
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jhanina03&show_icons=true&hide_border=true&bg_color=F8F5FF&title_color=7B5CD6&icon_color=FF7AB8&text_color=2B2140" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhanina03&layout=compact&hide_border=true&bg_color=F8F5FF&title_color=7B5CD6&text_color=2B2140" alt="Top languages">
+</p>
 
-**2019 - 2022:**  
-- **Título de Bachiller en Instalaciones en Equipos y Máquinas Eléctricas.**  
-  Graduada con honores en la **Unidad Educativa Ramón Barba Naranjo**.
+### 💌 Let's make something that fits
 
-**2018:**  
-- **Diploma de Honor "Disco Shuk-Shimi".**  
-  Reconocimiento otorgado en la **Unidad Educativa Victoria Vázconez Cuvi** en la feria de actividades artísticas.
+<p>
+  <a href="https://www.linkedin.com/search/results/people/?keywords=Jhanina%20Conter%C3%B3n%20Villamar%C3%ADn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://steamcommunity.com/profiles/76561199698705664/"><img src="https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href="https://www.instagram.com/jhanis_03/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:jhaninaconteron03@gmail.com"><img src="https://img.shields.io/badge/jhaninaconteron03@gmail.com-7B5CD6?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
----
-
-## 🛠️ **Habilidades Técnicas**
-
-- **Lenguajes de Programación:**  
-  - HTML5 & CSS3
-  - JavaScript
-  - PHP
-  - SQL
-  - Java
-  - Python
-- **Idiomas:**  
-  - Español  
-  - Inglés
-
----
-
-## 💻 **Portafolio**
-
-Mis proyectos más recientes incluyen:
-
-### [Concesionaria de Autos (Java)](https://github.com/jhaninaconteron/concesionaria-autos)  
-Un innovador proyecto que simula la interfaz de una concesionaria de autos, permitiendo explorar vehículos y realizar consultas a través de una interfaz gráfica en Java.
-
-### [Tamagochi - Mascota Virtual (JavaScript)](https://github.com/jhaninaconteron/tamagochi)  
-Revive la nostalgia con este Tamagochi virtual, donde puedes cuidar de una mascota digital usando JavaScript.
-
-### [Campaña Publicitaria - Elecciones Rectorales 2024](https://github.com/jhaninaconteron/elecciones-rectorales)  
-Un sitio web diseñado para promover la participación estudiantil en las elecciones rectorales de la Universidad Técnica de Ambato.
-
-### [Blog Personal (HTML, CSS, JavaScript)](https://github.com/jhaninaconteron/blog)  
-Un espacio para crear y compartir publicaciones de manera sencilla y atractiva con HTML, CSS y JavaScript.
-
----
-
-## 📬 **¡Estoy Disponible para Freelance!**
-
-Si necesitas alguien para tus proyectos de desarrollo web, no dudes en contactarme. ¡Estoy lista para colaborar en tus ideas y llevarlas al siguiente nivel!
-
----
-
-**Sígueme en:**  
-- [GitHub](https://github.com/Jhanina03)
-
-
----
-
-*Gracias por visitar mi perfil. ¡Estoy emocionada de conectar contigo!*
+<sub>✂︎ Care instructions: serve with coffee, debug gently, never iron out the creativity.</sub>
