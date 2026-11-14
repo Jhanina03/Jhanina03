@@ -31,16 +31,16 @@
 <p align="center">Cada pieza nace de un problema real, se cose con código limpio y se revisa costura por costura.</p>
 
 <p align="center">
-  <a href="https://jhanina03.github.io/?lang=es"><img src="assets/card-portfolio-es.svg" alt="Jhanina.atelier: portafolio de atelier de moda con juegos y QA" width="420"></a>
-  <a href="https://jhanina03.github.io/archive.html?lang=es#fashion"><img src="assets/card-fashionia-es.svg" alt="FashionIA: recomendador de confort de prendas con lógica difusa y algoritmos genéticos" width="420"></a>
+  <a href="https://jhanina03.github.io/?lang=es"><img src="assets/card-portfolio-es.svg" alt="Jhanina.atelier: portafolio de atelier de moda con juegos y QA" width="48%"></a>
+  <a href="https://jhanina03.github.io/archive.html?lang=es#fashion"><img src="assets/card-fashionia-es.svg" alt="FashionIA: recomendador de confort de prendas con lógica difusa y algoritmos genéticos" width="48%"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Jhanina03/chat-basico"><img src="assets/card-chat-es.svg" alt="Chat Básico: chat en tiempo real con videollamadas, totalmente probado" width="420"></a>
-  <a href="https://github.com/Jhanina03/mnist"><img src="assets/card-mnist-es.svg" alt="MNIST: red neuronal vs KNN" width="420"></a>
+  <a href="https://github.com/Jhanina03/chat-basico"><img src="assets/card-chat-es.svg" alt="Chat Básico: chat en tiempo real con videollamadas, totalmente probado" width="48%"></a>
+  <a href="https://github.com/Jhanina03/mnist"><img src="assets/card-mnist-es.svg" alt="MNIST: red neuronal vs KNN" width="48%"></a>
 </p>
 <p align="center">
-  <a href="https://feriauto-juego.vercel.app"><img src="assets/card-feriauto-es.svg" alt="FeriaAuto: juego web de carreras" width="420"></a>
-  <a href="https://github.com/Jhanina03/APE7-proyectogpis"><img src="assets/card-gpis-es.svg" alt="APE7 GPIS: microservicios con Docker y Jenkins" width="420"></a>
+  <a href="https://feriauto-juego.vercel.app"><img src="assets/card-feriauto-es.svg" alt="FeriaAuto: juego web de carreras" width="48%"></a>
+  <a href="https://github.com/Jhanina03/APE7-proyectogpis"><img src="assets/card-gpis-es.svg" alt="APE7 GPIS: microservicios con Docker y Jenkins" width="48%"></a>
 </p>
 
 <p align="center">

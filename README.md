@@ -31,16 +31,16 @@
 <p align="center">Each piece is cut from a real problem, stitched with clean code and checked seam by seam.</p>
 
 <p align="center">
-  <a href="https://jhanina03.github.io/"><img src="assets/card-portfolio.svg" alt="Jhanina.atelier: fashion-atelier portfolio with games and QA" width="420"></a>
-  <a href="https://jhanina03.github.io/archive.html#fashion"><img src="assets/card-fashionia.svg" alt="FashionIA: garment comfort recommender with fuzzy logic and genetic algorithms" width="420"></a>
+  <a href="https://jhanina03.github.io/"><img src="assets/card-portfolio.svg" alt="Jhanina.atelier: fashion-atelier portfolio with games and QA" width="48%"></a>
+  <a href="https://jhanina03.github.io/archive.html#fashion"><img src="assets/card-fashionia.svg" alt="FashionIA: garment comfort recommender with fuzzy logic and genetic algorithms" width="48%"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Jhanina03/chat-basico"><img src="assets/card-chat.svg" alt="Chat Básico: real-time chat with video calls, fully tested" width="420"></a>
-  <a href="https://github.com/Jhanina03/mnist"><img src="assets/card-mnist.svg" alt="MNIST: neural network vs KNN" width="420"></a>
+  <a href="https://github.com/Jhanina03/chat-basico"><img src="assets/card-chat.svg" alt="Chat Básico: real-time chat with video calls, fully tested" width="48%"></a>
+  <a href="https://github.com/Jhanina03/mnist"><img src="assets/card-mnist.svg" alt="MNIST: neural network vs KNN" width="48%"></a>
 </p>
 <p align="center">
-  <a href="https://feriauto-juego.vercel.app"><img src="assets/card-feriauto.svg" alt="FeriaAuto: racing browser game" width="420"></a>
-  <a href="https://github.com/Jhanina03/APE7-proyectogpis"><img src="assets/card-gpis.svg" alt="APE7 GPIS: microservices with Docker and Jenkins" width="420"></a>
+  <a href="https://feriauto-juego.vercel.app"><img src="assets/card-feriauto.svg" alt="FeriaAuto: racing browser game" width="48%"></a>
+  <a href="https://github.com/Jhanina03/APE7-proyectogpis"><img src="assets/card-gpis.svg" alt="APE7 GPIS: microservices with Docker and Jenkins" width="48%"></a>
 </p>
 
 <p align="center">
